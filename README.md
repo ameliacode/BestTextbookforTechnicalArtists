@@ -3,7 +3,7 @@ Technical Artist Start Kit
 *a.k.a Best Textbook for Technical Artists(KOR.ver)*<br>
 This repository is my personal reposit for Technical Artist Start Kit by Yosuke Katsura, an in-house publication for education.<br>
 (!) This book is only available in Korean or Japanese.<br>
-Check Out for more info: <https://olm.co.jp/rd/2012/03/?lang=en><br>
+Check ut for more info: <https://olm.co.jp/rd/2012/03/?lang=en><br>
 
 *****
 
