@@ -11,7 +11,7 @@ Getting Started
 -----------------
 The book usually covers MEL, However, for my own convenience, I use maya python instead.<br>
 Hence, I won't cover up the whole basic python and also, some knoweldge is required beforehand judging by the content of the book.<br>
-~~I may upload additional Maya python sample codes in future. So make sure you fork this repos or subscribe~~
+~~I may upload additional Maya python sample codes if needed in future. So make sure you fork this repos or subscribe~~<br>
 
 > Requirements
 * **Basic Python knowledge**
