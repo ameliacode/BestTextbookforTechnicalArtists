@@ -10,7 +10,7 @@ Check out for more info: [Official Site](https://olm.co.jp/rd/2012/03/?lang=en)<
 Getting Started
 -----------------
 The book usually covers MEL, However, for my own convenience, I have used maya python instead.<br>
-Hence, I won't cover up the whole basic python and also, some knoweldge is required beforehand judging by the content of the book.<br>
+Hence, I won't cover up the whole basic python and also, some knoweldge is required beforehand judging by the content of the book.  
 
 
 > Requirements
