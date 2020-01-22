@@ -16,7 +16,7 @@ Hence, I won't cover up the whole basic python and also, some knoweldge is requi
 
 > Requirements
 * **Basic Python knowledge**
-* Basic Maya knowledege on 3D Modeling
+* Basic Maya knowledge on 3D Modeling
 * Basic Computer Graphics
 
 > Software
