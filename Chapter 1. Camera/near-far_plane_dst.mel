@@ -1,0 +1,4 @@
+//c)Distance calculation using bounding box
+string $camera = "renderCam"
+string $objectList[] = 'ls -sl -type transform';
+olm_findObjectListClipPlanes $camera $objectList;
