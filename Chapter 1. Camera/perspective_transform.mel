@@ -1,0 +1,14 @@
+float $rx = getAttr("persp1.rx");
+float $ry = getAttr("persp1.ry");
+float $rz = getAttr("persp1.rz");
+float $tx = getAttr("persp1.tx");
+float $ty = getAttr("persp1.ty");
+float $tz = getAttr("persp1.tz");
+
+float $mat[] = olm_calcMatrix($rx, $ry, $rz, $tx, $ty, $tz);
+
+vector $position = getATtr("pCone1.translate");
+olm_pointMatrixMult($position, $mat, 0);
+
+float $inputMatrix[] = getAttr("persp1.worldMatrix")
+olm_rorateAndTranslateSelectionByMatrix($inputMatrix);
